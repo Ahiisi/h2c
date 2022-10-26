@@ -24,10 +24,13 @@ body {
 
 .navbar .container {
     display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 .navbar ul {
     list-style-type: none;
+    display: flex;
 }
 
 .header {
