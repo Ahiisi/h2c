@@ -1,3 +1,5 @@
-.nav {
-    display: flex;
+.header h1 {
+    font-size: x-large;
+    font-style: bold;
+    font-family: Arial, Helvetica, sans-serif;
 }
