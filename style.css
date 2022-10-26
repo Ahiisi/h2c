@@ -61,3 +61,13 @@ body {
     display: flex;
     align-items: center;
 }
+
+@media (max-width: 768px) {
+    .nav .container {
+        flex-direction: column;
+        padding-top: 20px;
+        text-align: center;
+    }
+
+
+}
