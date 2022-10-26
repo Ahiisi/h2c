@@ -6,19 +6,30 @@
 
 body {
     font-family: Arial, Helvetica, sans-serif;
+    background-color: lightgray;
 }
 
 
 .container {
-    background-color: lightblue;
-    color: white;
+
+
     max-width: 1100px;
     margin: 0 auto;
     padding: 0 30px;
+}
+
+.header {
+    background-color: gray;
+    color: #fff;
 }
 
 .header h1 {
     font-size: x-large;
     font-style: bold;
 
+}
+
+.header .container {
+    display: flex;
+    align-items: center;
 }
