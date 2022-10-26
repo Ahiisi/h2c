@@ -33,6 +33,10 @@ body {
     display: flex;
 }
 
+.navbar ul li {
+    margin-left: 20px;
+}
+
 .header {
     background-color: rgb(179, 179, 179);
     color: black;
