@@ -58,6 +58,8 @@ h1 {
 }
 
 .header .container {
+
+    min-height: 300px;
     display: flex;
     flex-direction: column;
     justify-content: center;
