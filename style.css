@@ -37,6 +37,15 @@ body {
     margin-left: 20px;
 }
 
+.navbar a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    color: lightgray;
+}
+
 .header {
     background-color: rgb(179, 179, 179);
     color: black;
