@@ -59,7 +59,7 @@ h1 {
 
 .header .container {
 
-    min-height: 300px;
+    min-height: 150px;
     display: flex;
     flex-direction: column;
     justify-content: center;
