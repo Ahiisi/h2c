@@ -58,6 +58,14 @@ body {
     display: flex;
 }
 
+.dummytext {
+    max-width: 900px;
+}
+
+.sidebar {
+    max-width: 200px;
+}
+
 h1 {
     font-size: x-large;
     font-style: bold;
@@ -84,6 +92,12 @@ h1 {
         flex-direction: column;
         padding-top: 20px;
         text-align: center;
+    }
+
+    .main .container {
+        flex-direction: column;
+        text-align: center;
+        padding-top: 20px;
     }
 
 
