@@ -58,13 +58,9 @@ body {
     display: flex;
 }
 
-.dummytext {
-    max-width: 900px;
-}
+.dummytext {}
 
-.sidebar {
-    max-width: 200px;
-}
+.sidebar {}
 
 h1 {
     font-size: x-large;
