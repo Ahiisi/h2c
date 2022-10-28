@@ -72,6 +72,10 @@ h1 {
 
 }
 
+section {
+    text-align: justify;
+}
+
 .header .container {
 
     min-height: 150px;
