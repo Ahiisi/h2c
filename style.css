@@ -85,6 +85,11 @@ section {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+
+}
+
+.header .container a {
+    text-decoration: none;
 }
 
 footer {
