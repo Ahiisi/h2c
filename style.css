@@ -56,7 +56,7 @@ body {
 
 .main .container {
     display: flex;
-    min-height: 600px;
+    min-height: 400px;
 }
 
 .dummytext {
@@ -93,6 +93,7 @@ footer {
 
 .footer .container {
     padding-top: 30px;
+    min-height: 100px;
 }
 
 @media (max-width: 768px) {
