@@ -86,8 +86,12 @@ section {
     align-items: center;
 }
 
+footer {
+    background-color: rgb(124, 124, 124);
+}
+
 .footer .container {
-    margin-top: 30px;
+    padding-top: 30px;
 }
 
 @media (max-width: 768px) {
