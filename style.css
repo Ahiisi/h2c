@@ -54,6 +54,10 @@ body {
     color: black;
 }
 
+.main .container {
+    display: flex;
+}
+
 h1 {
     font-size: x-large;
     font-style: bold;
