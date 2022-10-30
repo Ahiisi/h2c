@@ -66,6 +66,7 @@ body {
 
 .sidebar {
     width: 300px;
+    min-height: 400px;
 }
 
 h1 {
