@@ -57,6 +57,7 @@ body {
 .main .container {
     display: flex;
     min-height: 400px;
+    padding-top: 10px;
 }
 
 .dummytext {
