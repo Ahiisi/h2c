@@ -60,6 +60,10 @@ body {
     padding-top: 10px;
 }
 
+audio {
+    padding-top: 15px;
+}
+
 .dummytext {
     max-width: 800px;
     margin-right: 30px;
