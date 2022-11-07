@@ -105,6 +105,8 @@ section {
 
 footer {
     background-color: rgb(124, 124, 124);
+    background-image: url(bgimage.jpg);
+    background-repeat: repeat-x;
 }
 
 .footer .container {
