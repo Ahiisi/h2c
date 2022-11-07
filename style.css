@@ -107,11 +107,12 @@ footer {
     background-color: rgb(124, 124, 124);
     background-image: url(feather.png);
     background-repeat: repeat-x;
+    height: 300px;
 }
 
 .footer .container {
     padding-top: 30px;
-    min-height: 300px;
+    
 }
 
 @media (max-width: 768px) {
