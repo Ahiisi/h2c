@@ -106,8 +106,8 @@ section {
 footer {
     background-color: rgb(124, 124, 124);
     background-image: url(feather.jpeg);
-    background-repeat: repeat-x;
-    background-size: 30%;
+    background-repeat: no-repeat;
+    background-size: 50%;
     height: 300px;
 }
 
