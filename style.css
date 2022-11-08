@@ -72,6 +72,9 @@ audio {
 .sidebar {
     width: 300px;
     min-height: 400px;
+    background-image: url(feather.png);
+    background-repeat: no-repeat;
+    background-size: 30%;
 }
 
 h1 {
@@ -105,9 +108,6 @@ section {
 
 footer {
     background-color: rgb(124, 124, 124);
-    background-image: url(feather.jpeg);
-    background-repeat: no-repeat;
-    background-size: 50%;
     height: 300px;
 }
 
