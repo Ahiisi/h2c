@@ -105,14 +105,15 @@ section {
 
 footer {
     background-color: rgb(124, 124, 124);
-    background-image: url(feather.png);
+    background-image: url(feather.jpeg);
     background-repeat: repeat-x;
+    background-size: 30%;
     height: 300px;
 }
 
 .footer .container {
     padding-top: 30px;
-    
+
 }
 
 @media (max-width: 768px) {
