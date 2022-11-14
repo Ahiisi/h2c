@@ -14,8 +14,8 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     background-position: right bottom;
-    
- 
+
+
 
 }
 
@@ -80,9 +80,7 @@ audio {
     margin-right: 30px;
 }
 
-.sidebar {
-
-}
+.sidebar {}
 
 h1 {
     font-size: x-large;
@@ -110,6 +108,10 @@ section {
 
 .header .container a {
     text-decoration: none;
+    color: #fff;
+}
+
+.header .container h1 {
     color: #fff;
 }
 
