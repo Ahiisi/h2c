@@ -28,6 +28,6 @@ tbody td {
   border: 1px dotted black;
 }
 
-.junat tbody tr td:nth-child(2) {
+.junat tbody td:nth-child(2) {
   text-decoration: line-through;
 }
