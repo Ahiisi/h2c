@@ -36,3 +36,7 @@ tbody td {
 .bussit thead {
   letter-spacing: 3px;
 }
+
+tbody tr:nth-child(odd) {
+  background-color: lightblue;
+}
