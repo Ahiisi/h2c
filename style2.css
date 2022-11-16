@@ -8,6 +8,7 @@ table {
 }
 
 thead {
+  border: 2px solid navy;
   font-weight: bold;
   background-color: steelblue;
   color: #fff;
@@ -15,7 +16,7 @@ thead {
 
 tbody {
   background-color: skyblue;
-
+  border: 1px dotted black;
 }
 
 .junat tbody tr td:nth-child(2) {
