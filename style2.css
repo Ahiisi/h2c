@@ -17,3 +17,7 @@ tbody {
   background-color: skyblue;
 
 }
+
+.junat tbody tr td:nth-child(2) {
+  text-decoration: line-through;
+}
