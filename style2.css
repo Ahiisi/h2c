@@ -16,6 +16,10 @@ thead {
 
 tbody {
   background-color: skyblue;
+
+}
+
+tbody tr {
   border: 1px dotted black;
 }
 
