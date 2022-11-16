@@ -32,3 +32,7 @@ tbody td {
   text-decoration: line-through;
   color: red;
 }
+
+.bussit thead {
+  letter-spacing: 3px;
+}
