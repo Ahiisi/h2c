@@ -30,6 +30,5 @@ tbody td {
 
 .junat tbody tr:nth-child(2) {
   text-decoration: line-through;
-  opacity: 50%;
   color: red;
 }
